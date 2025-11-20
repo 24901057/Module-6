@@ -1,7 +1,6 @@
 
-# Module-6---Review
-# DATE: 22.10.25
-
+## NAME: THEJASHREE S
+## REG NO: 212224240175
 #  Python OOP: Abstract Class & Method Example
 
 ## 🎯 AIM
